@@ -10,10 +10,10 @@ const Layout = () => {
             <p className="title_discrip">黑暗中<span className="title_sub_discrip">紅寶石</span></p>
           </li>
           <li>
-            <a href="https://medium.com/@lianankuan" target="_blank">Tech Blogs</a>
+            <a href="https://medium.com/@lianankuan" target="_blank">TechBlogs</a>
           </li>
           <li>
-            <Link to="/contact">Contact</Link>
+            <Link to="/gitbooks">TechBooks</Link>
           </li> 
         </ul>
       </nav> 
