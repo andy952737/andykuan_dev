@@ -1,7 +1,7 @@
 {
-  "name": "andy_r",
+  "name": "andykuan_dev", 
   "version": "0.1.0",
-  "homepage": "https://andy952737.github.io/andy_r",
+  "homepage": "https://andy952737.github.io/andykuan_dev",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
