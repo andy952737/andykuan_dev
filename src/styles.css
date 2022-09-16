@@ -1,0 +1,48 @@
+body {
+  margin: 0 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title_discrip {
+  color: #58a4b0;
+  margin-top: 5px;
+  margin-left: 35px;
+}
+
+.title_sub_discrip {
+  color: red;
+}
+
+.nav_a {
+  height: 80px;
+  border-top: solid 2px;
+  border-bottom: solid 0.5px;
+  background-color: #000000;
+}
+
+.nav_a li {
+  float: left;
+  padding-right: 50px;
+  list-style: none;
+  
+}
+
+.nav_a a {
+  color: #ffffff;
+}
+
+.footer_b {
+  height: 80px;
+  border-top: solid 2px;
+  border-bottom: solid 0.5px;
+  position: relative;
+  top: 200px;
+}
+
+.pppppp {
+  text-align: center;
+}
