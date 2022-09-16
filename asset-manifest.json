@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andy_r/static/css/main.0a1ace87.css",
+    "main.js": "/andy_r/static/js/main.ad778e6f.js",
+    "index.html": "/andy_r/index.html",
+    "main.0a1ace87.css.map": "/andy_r/static/css/main.0a1ace87.css.map",
+    "main.ad778e6f.js.map": "/andy_r/static/js/main.ad778e6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a1ace87.css",
+    "static/js/main.ad778e6f.js"
+  ]
+}
