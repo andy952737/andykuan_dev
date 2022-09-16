@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/andykuan_dev/static/css/main.6b1d3a26.css",
-    "main.js": "/andykuan_dev/static/js/main.f01317b8.js",
+    "main.js": "/andykuan_dev/static/js/main.5eb55604.js",
     "index.html": "/andykuan_dev/index.html",
     "main.6b1d3a26.css.map": "/andykuan_dev/static/css/main.6b1d3a26.css.map",
-    "main.f01317b8.js.map": "/andykuan_dev/static/js/main.f01317b8.js.map"
+    "main.5eb55604.js.map": "/andykuan_dev/static/js/main.5eb55604.js.map"
   },
   "entrypoints": [
     "static/css/main.6b1d3a26.css",
-    "static/js/main.f01317b8.js"
+    "static/js/main.5eb55604.js"
   ]
 }
