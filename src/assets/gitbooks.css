@@ -1,0 +1,17 @@
+.gitbook_p {
+  text-align: center;
+  font-size: 16px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.gitbook_box_main {
+  height: 300px;
+  margin-top: 5px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.gitbook_box {
+  padding-top: 20px;
+}

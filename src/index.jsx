@@ -1,3 +1,4 @@
+import React, { Component } from 'react';
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout";
@@ -6,9 +7,14 @@ import Home from "./pages/Home";
 import Blogs from "./pages/Blogs";
 import Contact from "./pages/Contact";
 import GitBooks from "./pages/GitBooks";
-import NoPage from "./pages/NoPage";
+import NoPage from "./pages/NoPage"; 
 
+// import my_image from "./images/andy.jpg";
+
+import index_styles from "./index.css";
 import styles from "./styles.css";
+import gitbooks from "./assets/gitbooks.css";
+
 
 // default
 export function App() {
