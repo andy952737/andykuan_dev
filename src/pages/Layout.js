@@ -5,7 +5,7 @@ const Layout = () => {
     <> 
       <nav className="nav_a">
         <ul>
-          <li>
+          <li> 
             <Link to="/andykuan_dev">AndyKuan Dev</Link>
             <p className="title_discrip"><span className="title_sub_discrip">一個工程師</span>的日誌</p>
           </li>
