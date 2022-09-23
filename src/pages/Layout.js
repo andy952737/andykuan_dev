@@ -2,7 +2,7 @@ import { Outlet, Link } from "react-router-dom";
 
 const Layout = () => {
   return (
-    <>
+    <> 
       <nav className="nav_a">
         <ul>
           <li>
