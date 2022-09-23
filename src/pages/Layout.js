@@ -18,7 +18,7 @@ const Layout = () => {
           <li>
             <Link to="/portfolio">作品集</Link>
           </li> 
-        </ul>
+        </ul> 
       </nav> 
 
       <Outlet />
