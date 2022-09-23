@@ -9,7 +9,7 @@ const Layout = () => {
             <Link to="/andykuan_dev">AndyKuan Dev</Link>
             <p className="title_discrip"><span className="title_sub_discrip">一個工程師</span>的日誌</p>
           </li>
-          <li>
+          <li> 
             <a href="https://medium.com/@lianankuan" target="_blank">部落格</a>
           </li>
           <li>
