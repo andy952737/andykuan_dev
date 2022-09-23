@@ -18,7 +18,7 @@ body {
 }
 
 .nav_a {
-  height: 80px;
+  height: 100px;
   border-top: solid 2px;
   border-bottom: solid 0.5px;
   background-color: #000000;
@@ -26,9 +26,11 @@ body {
 
 .nav_a li {
   float: left;
-  padding-right: 50px;
+  padding-right: 35px;
   list-style: none;
-  
+  padding-bottom: 0px;
+  margin-top: 5px;
+  padding-left: 5px;
 }
 
 .nav_a a {

@@ -7,6 +7,7 @@ import Home from "./pages/Home";
 import Blogs from "./pages/Blogs";
 import Contact from "./pages/Contact";
 import GitBooks from "./pages/GitBooks";
+import Portfolio from "./pages/Portfolio";
 import NoPage from "./pages/NoPage"; 
 
 // import my_image from "./images/andy.jpg";
@@ -14,7 +15,7 @@ import NoPage from "./pages/NoPage";
 import index_styles from "./index.css";
 import styles from "./styles.css";
 import gitbooks from "./assets/gitbooks.css";
-
+ 
 
 // default
 export function App() {
@@ -24,7 +25,8 @@ export function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="blogs" element={<Blogs />} />
-          <Route path="gitbooks" element={<GitBooks />} />
+          <Route path="gitbooks" element={<GitBooks />} /> 
+          <Route path="portfolio" element={<Portfolio />} />
           <Route path="andykuan_dev" element={<AndyKuanDev />} />
           <Route path="*" element={<NoPage />} />
         </Route>
