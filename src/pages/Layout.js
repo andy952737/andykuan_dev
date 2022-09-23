@@ -11,7 +11,7 @@ const Layout = () => {
           </li>
           <li> 
             <a href="https://medium.com/@lianankuan" target="_blank">部落格</a>
-          </li> 
+          </li>  
           <li>
             <Link to="/gitbooks">技術文件</Link>
           </li> 
