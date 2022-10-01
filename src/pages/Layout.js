@@ -15,8 +15,11 @@ const Layout = () => {
           <li>
             <Link to="/gitbooks">技術文件</Link>
           </li> 
-          <li>
+          {/*<li>
             <Link to="/portfolio">作品集</Link>
+          </li> */}
+          <li>
+            <a href="https://www.cakeresume.com/s--XT60AylSFknISAuw7heuVQ--/lian-an-kuan" target="_blank">履歷</a>
           </li> 
         </ul> 
       </nav> 

@@ -18,7 +18,7 @@ body {
 }
 
 .nav_a {
-  height: 100px;
+  height: 135px;
   border-top: solid 2px;
   border-bottom: solid 0.5px;
   background-color: #000000;
@@ -26,7 +26,7 @@ body {
 
 .nav_a li {
   float: left;
-  padding-right: 35px;
+  padding-right: 20px;
   list-style: none;
   padding-bottom: 0px;
   margin-top: 5px;
