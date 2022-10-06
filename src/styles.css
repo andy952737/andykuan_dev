@@ -48,6 +48,15 @@ body {
 .home_main {
   text-align: center;
   padding-top: 20px;
+  background-image: linear-gradient(to top, #008b8b, #ffff00);
+  background-image: linear-gradient(to right, #008b8b, #ffff00);
+  background-image: linear-gradient(to bottom, #008b8b, #ffff00);
+  background-image: linear-gradient(to left, #008b8b, #ffff00);
+}
+
+.home_main_contact {
+  text-align: center;
+  
 }
 
 .my_avatar {
