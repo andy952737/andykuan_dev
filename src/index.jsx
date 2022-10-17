@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout";
-import AndyKuanTw from "./pages/AndyKuanTw";
+import AndyKuanDev from "./pages/AndyKuanDev";
 import Home from "./pages/Home";
 import Blogs from "./pages/Blogs";
 import Contact from "./pages/Contact";
@@ -27,7 +27,7 @@ export function App() {
           <Route path="blogs" element={<Blogs />} />
           <Route path="gitbooks" element={<GitBooks />} /> 
           <Route path="portfolio" element={<Portfolio />} />
-          <Route path="andykuan_dev" element={<AndyKuanTw />} />
+          <Route path="andykuan_dev" element={<AndyKuanDev />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
