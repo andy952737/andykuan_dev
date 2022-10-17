@@ -6,7 +6,7 @@ const Layout = () => {
       <nav className="nav_a">
         <ul>
           <li> 
-            <Link to="/andykuan_dev">andykuan_tw</Link>
+            <Link to="/andykuan_dev">andykuan_tw</Link> 
             <p className="title_discrip"><span className="title_sub_discrip">享受躍動的</span>工程師</p>
           </li>
           <li> 
