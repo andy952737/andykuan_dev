@@ -6,14 +6,14 @@ const Layout = () => {
       <nav className="nav_a">
         <ul>
           <li> 
-            <Link to="/andykuan_dev">AndyKuan Dev</Link>
-            <p className="title_discrip"><span className="title_sub_discrip">一個工程師</span>的日誌</p>
+            <Link to="/andykuan_tw">andykuan_tw</Link>
+            <p className="title_discrip"><span className="title_sub_discrip">享受躍動的</span>工程師</p>
           </li>
           <li> 
             <a href="https://medium.com/@lianankuan" target="_blank">部落格</a>
           </li>  
           <li>
-            <Link to="/gitbooks">技術文件</Link>
+            <Link to="/gitbooks">技術文件</Link> 
           </li> 
           {/*<li>
             <Link to="/portfolio">作品集</Link>

@@ -27,7 +27,7 @@ export function App() {
           <Route path="blogs" element={<Blogs />} />
           <Route path="gitbooks" element={<GitBooks />} /> 
           <Route path="portfolio" element={<Portfolio />} />
-          <Route path="andykuan_dev" element={<AndyKuanDev />} />
+          <Route path="andykuan_tw" element={<AndyKuanDev />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
