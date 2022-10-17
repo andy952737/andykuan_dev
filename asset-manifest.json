@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/andykuan_dev/static/css/main.face90f3.css",
-    "main.js": "/andykuan_dev/static/js/main.c136f319.js",
+    "main.js": "/andykuan_dev/static/js/main.b4aa32a9.js",
     "static/media/andy.jpg": "/andykuan_dev/static/media/andy.649ac1562760c23545d7.jpg",
     "index.html": "/andykuan_dev/index.html",
     "main.face90f3.css.map": "/andykuan_dev/static/css/main.face90f3.css.map",
-    "main.c136f319.js.map": "/andykuan_dev/static/js/main.c136f319.js.map"
+    "main.b4aa32a9.js.map": "/andykuan_dev/static/js/main.b4aa32a9.js.map"
   },
   "entrypoints": [
     "static/css/main.face90f3.css",
-    "static/js/main.c136f319.js"
+    "static/js/main.b4aa32a9.js"
   ]
 }
